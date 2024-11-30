@@ -1,7 +1,7 @@
 - 🐰🐰🐰
 - 👋 Hi, I’m @minJ-upiter
-- 🌱 I’m currently learning Spring
-- 📫 How to reach me godgodmangmang@gmail.com
+- 🌱 I’m backend framework developer
+- 📫 (https://minj-upiter.github.io/#)
 - 🐰🐰🐰
 <!---
 minJ-upiter/minJ-upiter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
